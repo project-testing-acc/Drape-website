@@ -44,7 +44,7 @@ export default function Hero() {
       {/* Animated ambient blobs */}
       <div
         className="blob-a absolute top-[-10%] left-1/2 -translate-x-1/2 w-[900px] h-[700px] rounded-full pointer-events-none"
-        style={{ background: 'rgba(123,47,255,0.18)', filter: 'blur(140px)' }}
+        style={{ filter: 'blur(140px)' }}
       />
       <div
         className="blob-b absolute top-[20%] left-[-10%] w-[500px] h-[600px] rounded-full pointer-events-none"
